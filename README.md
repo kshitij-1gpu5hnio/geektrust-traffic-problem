@@ -13,17 +13,19 @@ Java JDK(8 or later) and maven(latest or recent version).
 
 * Clone the repository to your desired location on your local machine.
 * Unpack the zip file and cd to the repository.
-* There's a input.txt file in the repository, you can use that or you can pass the file path to your own input file
-    in the following steps.
+* There's a input.txt file in the repository, you can use that or you can pass the file path to your own input file in the following steps.
 * Input format: WEATHER ORBIT_1_TRAFFIC_SPEED ORBIT_2_TRAFFIC_SPEED
-* Run the following command to compile and execute: 
+* Run the following command to compile and execute:
+    ```
     mvn clean install -DskipTests -q assembly:single
     java -jar <path_to_the_target_folder_containing_jar>/geektrust.jar <absolute_path_to_input_file>
-
+    ```
 ## Running Tests
 * cd to the extracted repository.
 * Run the following command to run the tests:
+    ```
     mvn test
+    ```
 
 ## Built With
 
