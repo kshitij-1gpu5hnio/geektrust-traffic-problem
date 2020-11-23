@@ -1,0 +1,17 @@
+[
+    {
+        "weather": "SUNNY",
+        "suitableVehiclesForWeather": ["bike", "tuktuk", "car"],
+        "effectOnRouteByPercentage": "-10.0"
+    },
+    {
+        "weather": "RAINY",
+        "suitableVehiclesForWeather": ["tuktuk", "car"],
+        "effectOnRouteByPercentage": "20.0"
+    },
+    {
+        "weather": "WINDY",
+        "suitableVehiclesForWeather": ["bike", "car"],
+        "effectOnRouteByPercentage": "0.0"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "bike",
+        "speed" : "10",
+        "timeToCrossCrater" : "2"
+    },
+    {
+        "name" : "tuktuk",
+        "speed" : "12",
+        "timeToCrossCrater" : "1"
+    },
+    {
+        "name" : "car",
+        "speed" : "20",
+        "timeToCrossCrater" : "3"
+    }
+]
