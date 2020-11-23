@@ -5,6 +5,8 @@ Shan of Lengaburu wishes to tour his kingdom. But the traffic in Lengaburu is ki
 
 This application follows the factory design pattern, so that this application can be scaled to solve commute problems other than traveling by an orbit, and the end user or the client doesn't need to make any modifications on their end.
 
+[Link to problem statement](https://www.geektrust.in/coding-problem/backend/traffic)
+
 ### Prerequisites
 
 Java JDK(8 or later) and maven(latest or recent version).
